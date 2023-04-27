@@ -43,7 +43,7 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
+<code><img height="40" width="40" src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
@@ -88,7 +88,7 @@
     <code><img height="60" width="100" src="https://cdn.codechef.com/images/cc-logo.svg"></code>
   </a>
   <a href="https://leetcode.com/kaviruban/" target="_blank">
-    <code><img height="60" width="60" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"></code>
+    <code><img height="60" width="100" src="https://leetcode.com/static/images/LeetCode_Sharing.png"></code>
   </a>  
 </p>
 <br/>
