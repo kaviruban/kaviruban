@@ -35,11 +35,8 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
-<br/>
-
-
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
@@ -51,7 +48,9 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <br/>
-
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+  
 ---
 
 <details open="">
@@ -71,7 +70,6 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=kaviruban&theme=react-dark&hide_border=true&area=true)
 
 
-![lion](https://user-images.githubusercontent.com/74188827/234827324-77b4420e-6b0b-4e96-9c98-ae0462338e66.png)
 
 <h1>
   Connect With Me
@@ -87,10 +85,10 @@
     <code><img height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"></code>
   </a>  
   <a href="https://www.codechef.com/users/kaviruban_84" target="_blank">
-    <code><img height="60" width="60" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png"></code>
+    <code><img height="60" width="100" src="https://cdn.codechef.com/images/cc-logo.svg"></code>
   </a>
   <a href="https://leetcode.com/kaviruban/" target="_blank">
-    <code><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png"></code>
+    <code><img height="60" width="60" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"></code>
   </a>  
 </p>
 <br/>
