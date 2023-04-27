@@ -1,25 +1,23 @@
-<h1 align ="center"> <img height="250" width="400" alt="GIF" src="banner.png"/>
+![banner](https://user-images.githubusercontent.com/74188827/234827257-7eef17c5-d26f-4b02-ac48-d04c887e3bd0.png)
 
 ---
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
+<p>
+<img align="right" height="190" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
   
-  - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack Web Development**
-  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **ReactJs**
-  - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Full Stack 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-  - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-  - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Communicate With Others in Meme Languages**
-
-<br/>
-<br/>
+     - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Full Stack Web Development
+     - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ReactJs
+     - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+     - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
+     - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : Communicate With Others in Meme Languages
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/kaviruban" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kaviruban?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/kaviruban?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
-
-#
+<h2>
+  
+---
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kaviruban&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -73,11 +71,11 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=kaviruban&theme=react-dark&hide_border=true&area=true)
 
 
-<img src="lion.png" alt="Kaviruban Quotes"/>
+![lion](https://user-images.githubusercontent.com/74188827/234827324-77b4420e-6b0b-4e96-9c98-ae0462338e66.png)
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" />
 </h1>
 
 <p align="center">
@@ -100,4 +98,6 @@
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+
 
