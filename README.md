@@ -81,10 +81,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/kavirubanmohanasundaram/" target="_blank">
-    <code><img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-linkedin-512.png"/></code>
+    <code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></code>
   </a> 
   <a href="https://www.hackerrank.com/kaviruban11" target="_blank">
-    <code><img height="60" width="60" src="https://img.icons8.com/windows/512/hackerrank.png"></code>
+    <code><img height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"></code>
   </a>  
   <a href="https://www.codechef.com/users/kaviruban_84" target="_blank">
     <code><img height="60" width="60" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png"></code>
