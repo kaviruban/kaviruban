@@ -1,3 +1,7 @@
+<h1 align ="center"> <img height="300" width="700" alt="GIF" src="banner.png"/>
+
+---
+
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack Web Development**
@@ -11,8 +15,8 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/kaviruban" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kaviruban?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/kaviruban?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kaviruban?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/kaviruban?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
 #
@@ -36,16 +40,18 @@
 <br/>
 
 
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <br/>
 
 ---
@@ -77,16 +83,16 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/kavirubanmohanasundaram/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="linkedin.svg"/></code>
   </a> 
   <a href="https://www.hackerrank.com/kaviruban11" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+    <code><img height="60" width="60" src="hr.webp"/></code>
   </a>  
   <a href="https://www.codechef.com/users/kaviruban_84" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="cc.svg"/></code>
   </a>
   <a href="https://leetcode.com/kaviruban/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+    <code><img height="60" width="60" src="lc.webp"/></code>
   </a>  
 </p>
 <br/>
