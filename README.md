@@ -83,16 +83,16 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/kavirubanmohanasundaram/" target="_blank">
-    <code><img height="60" width="60" src="linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-linkedin-512.png"/></code>
   </a> 
   <a href="https://www.hackerrank.com/kaviruban11" target="_blank">
-    <code><img height="60" width="60" src="hr.webp"/></code>
+    <code><img height="60" width="60" src="https://img.icons8.com/windows/512/hackerrank.png"></code>
   </a>  
   <a href="https://www.codechef.com/users/kaviruban_84" target="_blank">
-    <code><img height="60" width="60" src="cc.svg"/></code>
+    <code><img height="60" width="60" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png"></code>
   </a>
   <a href="https://leetcode.com/kaviruban/" target="_blank">
-    <code><img height="60" width="60" src="lc.webp"/></code>
+    <code><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png"></code>
   </a>  
 </p>
 <br/>
